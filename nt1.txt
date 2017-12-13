@@ -3,3 +3,5 @@ change after commit
 change after adding new file
 change after adding new branch
 change in new branch before pulling in master changes
+change in master to cause conflict
+
